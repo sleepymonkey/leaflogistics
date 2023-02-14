@@ -1,0 +1,3 @@
+rootProject.name = 'leaf-api-server'
+
+include('services', 'webapp')
